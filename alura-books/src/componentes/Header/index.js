@@ -16,7 +16,6 @@ function Header() {
             <OpcoesHeader/>
             <IconesHeader/>
         </HeaderContainer>
-
     )
 }
 
